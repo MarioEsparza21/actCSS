@@ -1,0 +1,91 @@
+
+div#general{
+	margin: auto;
+	padding: 20px;
+	margin-top: 100px;
+	width:1050px;
+	height:950px;
+	background-color:rgb(3,17,43);
+	border-radius: 15px;
+} 
+
+div#generalpie{
+	margin: auto;
+	padding: 20px;
+	width:1050px;
+	height:200px;
+	background-color:rgba(3,17,43);
+}
+
+body{
+background-image: url(https://s1.1zoom.me/b5050/596/Evening_Forests_Mountains_Firewatch_Campo_Santo_549147_1920x1080.jpg);
+font-family: arial;
+background-repeat: no-repeat;
+background-size: 1901px;
+background-color:rgb(3,17,43);
+}
+
+h1{
+color: rgb(255, 255, 255)
+}
+
+h2{
+color: rgb(255, 255, 255)
+}
+
+h3{
+color: rgb(255, 255, 255)
+}
+
+li{
+color: rgb(255, 255, 255)
+}
+
+table{
+  background-color:white;
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+thead th:nth-child(1) {
+  width: 30%;
+}
+
+thead th:nth-child(2) {
+  width: 20%;
+}
+
+thead th:nth-child(3) {
+  width: 15%;
+}
+
+thead th:nth-child(4) {
+  width: 35%;
+}
+
+th, td {
+  padding: 10px;
+}
+
+p {
+	color: white;
+}
+
+  .uno a{
+    text-decoration: none;
+    display:block;
+    border:1px solid #28B19D;
+    padding-top: 10px;
+    width: 250px;
+    height: 40px;
+    text-align: center;
+    margin: auto;
+    background-color:#28B19D; 
+    color: #fff;
+    font-family: arial;
+  }
+    .uno a:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
